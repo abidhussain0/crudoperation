@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "login": [
+    {
+      "id": 1,
+      "name": "abid",
+      "password": "1234"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "piza",
+      "adress": "karachi ",
+      "id": 1
+    },
+    {
+      "name": "piza",
+      "adress": "karachi ",
+      "id": 2
+    },
+    {
+      "name": "piza",
+      "adress": "karachi ",
+      "id": 3
+    },
+    {
+      "name": "mango",
+      "adress": "multan",
+      "id": 4
+    },
+    {
+      "name": "mango",
+      "adress": "multan",
+      "id": 5
+    },
+    {
+      "name": "aaa",
+      "adress": "bbbb",
+      "id": 6
+    },
+    {
+      "name": "aaa",
+      "adress": "bbbb",
+      "id": 7
+    },
+    {
+      "name": "",
+      "adress": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "adress": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "adress": "",
+      "id": 10
+    }
+  ]
+}

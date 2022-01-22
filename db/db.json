@@ -1,0 +1,26 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "name": "abid",
+      "password": "1234"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "piza",
+      "adress": "lahore",
+      "id": 3
+    },
+    {
+      "name": "burger",
+      "adress": "multan",
+      "id": 4
+    },
+    {
+      "name": "juice",
+      "adress": "ryk",
+      "id": 5
+    }
+  ]
+}
